@@ -1,0 +1,102 @@
+[
+  {
+    "id": "mnhs-001",
+    "term": "Marinduque National High School (MNHS)",
+    "category": "Identity & Nomenclature",
+    "partOfSpeech": "Proper Noun / Public Secondary Institution",
+    "definition": "The flagship public secondary school in the province of Marinduque, located along T. Roque Street in Barangay Isok I, Boac, Marinduque.",
+    "details": "Historically traced to early public secondary education in Boac (founded in the 1910s; known over time as Boac High School, Marinduque High School, and Marinduque Provincial High School before adopting its national high school designation in the early 1980s). Operates under the Schools Division of Marinduque (Boac North District) with DepEd School ID 301554.",
+    "tags": ["School ID 301554", "Boac", "Isok I", "T. Roque St."],
+    "addedAt": "2026-11-19"
+  },
+  {
+    "id": "mnhs-002",
+    "term": "Duke High",
+    "category": "Identity & Nomenclature",
+    "partOfSpeech": "Colloquial Proper Noun / Demonym",
+    "definition": "Widely recognized informal and campus appellation for Marinduque National High School and its student and alumni community.",
+    "details": "Used across student organizations, alumni circles, and local discourse in Boac and across Marinduque to refer to the institution's secondary campus identity.",
+    "tags": ["Appellation", "Campus Culture", "Alumni"],
+    "addedAt": "2026-11-19"
+  },
+  {
+    "id": "mnhs-003",
+    "term": "DepEd School ID 301554",
+    "category": "Administration & Governance",
+    "partOfSpeech": "Identifier / Administrative Code",
+    "definition": "Official Department of Education school identification code assigned to Marinduque National High School.",
+    "details": "Used in official division registries, Learner Information System (LIS) records, Basic Education Information System (BEIS) reporting, and curriculum administration within the Boac North District, Schools Division of Marinduque.",
+    "tags": ["DepEd", "LIS", "BEIS", "Boac North"],
+    "addedAt": "2026-11-19"
+  },
+  {
+    "id": "mnhs-004",
+    "term": "Isok I Campus & Coordinates",
+    "category": "Geography & Landmarks",
+    "partOfSpeech": "Geographic Location / Toponym",
+    "definition": "Town-proper location of MNHS on T. Roque Street, Barangay Isok I, Boac, Marinduque (approximate coordinates 13.4456 N, 121.8396 E).",
+    "details": "Situated within walking distance of Boac town center and plaza (roughly half a kilometer away), adjacent to Don Luis Hidalgo Memorial School and close to key town landmarks including the Cathedral / Our Lady of Assumption Parish.",
+    "tags": ["Coordinates", "Barangay Isok I", "Boac Plaza", "Postal 4900"],
+    "addedAt": "2026-11-19"
+  },
+  {
+    "id": "mnhs-005",
+    "term": "Junior and Senior High School Offerings (Grades 7 to 12)",
+    "category": "Academics & Curriculum",
+    "partOfSpeech": "Curriculum Framework",
+    "definition": "Complete secondary education structure spanning Junior High School (Grades 7 to 10) and Senior High School (Grades 11 to 12).",
+    "details": "Senior High School learners have historically been distributed across Academic, Technical-Vocational-Livelihood (TVL), and Arts and Design tracks, serving as the largest secondary enrollment hub in Marinduque.",
+    "tags": ["Grades 7-12", "Academic Track", "TVL", "Arts and Design"],
+    "addedAt": "2026-11-19"
+  },
+  {
+    "id": "mnhs-006",
+    "term": "Open High School Program (OHSP)",
+    "category": "Academics & Curriculum",
+    "partOfSpeech": "Alternative Delivery Mode",
+    "definition": "Alternative secondary education modality implemented to support learners at risk of dropping out or facing barriers to full-time daily attendance.",
+    "details": "Designed to provide flexible learning pathways and guided progression so school-age youth and out-of-school learners can complete secondary education.",
+    "tags": ["OHSP", "Alternative Delivery", "Retention"],
+    "addedAt": "2026-11-19"
+  },
+  {
+    "id": "mnhs-007",
+    "term": "Maroon and Gold",
+    "category": "Identity & Nomenclature",
+    "partOfSpeech": "Institutional Colors",
+    "definition": "Traditional school colors associated with Marinduque National High School.",
+    "details": "Represented across academic events, athletic delegations, publications, and institutional emblems.",
+    "tags": ["School Colors", "Emblem"],
+    "addedAt": "2026-11-19"
+  },
+  {
+    "id": "mnhs-008",
+    "term": "The Heart & The Book of Names and Faces",
+    "category": "Campus Life & Publications",
+    "partOfSpeech": "Student Publications",
+    "definition": "Traditional titles associated with campus journalism and graduation documentation at MNHS.",
+    "details": "Reflects long-standing student editorial traditions, school publication culture, and graduating batch chronicles.",
+    "tags": ["Publications", "Yearbook", "Campus Press"],
+    "addedAt": "2026-11-19"
+  },
+  {
+    "id": "mnhs-009",
+    "term": "Provincial Scale & Classroom Density",
+    "category": "Infrastructure & Scale",
+    "partOfSpeech": "Statistical Metric",
+    "definition": "Benchmark indicator reflecting MNHS as the largest high school in Marinduque by learner population, faculty size, and classroom count.",
+    "details": "With enrollment in the thousands and over a hundred classrooms plus computer laboratories, class sizes in the town proper typically run higher than smaller rural or island schools across the province.",
+    "tags": ["Enrollment", "Classrooms", "ICT Labs", "Statistics"],
+    "addedAt": "2026-11-19"
+  },
+  {
+    "id": "mnhs-010",
+    "term": "WWII Wartime History & Garrison Period",
+    "category": "Historical Chronology",
+    "partOfSpeech": "Historical Event",
+    "definition": "WWII chapter in which school facilities in Boac were affected during Japanese occupation and subsequent liberation/guerrilla operations.",
+    "details": "Documented in local cultural and historical inventories of Boac as part of the province's wartime memory before post-war rebuilding and subsequent renaming into a national high school.",
+    "tags": ["History", "WWII", "Boac Heritage"],
+    "addedAt": "2026-11-19"
+  }
+]
